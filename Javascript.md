@@ -37,7 +37,7 @@ function findDOMNode (node, root) {
   return currentNode;
 }
 ```
-
+v
 ### 3.Write an emitter class:
 
 ```javascript
