@@ -2,3 +2,6 @@
 2. how https works
 3. design patterns: module/contructor/prototype/observer(pub/sub)/singleton/
 4. how do you implement requirement by product people
+5. Largest subset sum
+6. Check number is power of 2
+7. Browser's render steps and event loop
