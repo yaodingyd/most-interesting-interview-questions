@@ -5,3 +5,5 @@
 5. Largest subset sum
 6. Check number is power of 2
 7. Browser's render steps and event loop
+8. Return the accumulated results of multiple (parallel) asynchronous function calls in a loop?
+9. Battleships in a Board

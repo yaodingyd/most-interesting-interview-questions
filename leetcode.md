@@ -1,0 +1,58 @@
+### Array
+
+1. [Two Sum](https://leetcode.com/problems/two-sum/description/)
+2. [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
+3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+4. [Contain Duplicates](https://leetcode.com/problems/contains-duplicate/description/)
+5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+6. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+7. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
+8. [Find Minimum in Rotated Sorted Array](Find Minimum in Rotated Sorted Array)
+9. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+10. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+11. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+12. [3 Sum](https://leetcode.com/problems/3sum/description/)
+13. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+14. [Plus One](https://leetcode.com/problems/plus-one/description/)
+15. [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+16. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+17. [Single Number](https://leetcode.com/problems/single-number/description/)
+18. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
+19. [Missing Number](https://leetcode.com/problems/missing-number/description/)
+
+
+### String
+1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+2. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+3. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+4. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+5. [Group Anagram](https://leetcode.com/problems/group-anagrams/description/)
+6. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+7. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+8. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+9. [Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
+10. [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+11. [Count and Say](https://leetcode.com/problems/count-and-say/description/)
+12. [String Compression](https://leetcode.com/problems/string-compression/description/)
+
+### Linked List
+1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+3. [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+4. [Merge K Sorted List](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+5. [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+6. [Reorder List](https://leetcode.com/problems/reorder-list/description/)
+7. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+
+
+### Tree
+1. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+2. [Same Tree](https://leetcode.com/problems/same-tree/description/)
+3. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+4. [Path Sum](https://leetcode.com/problems/path-sum/description/)
+5. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+6. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
+7. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+8. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+9. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+10. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)

@@ -202,6 +202,19 @@ function throttle (fn, threshold) {
         }
     };
 }
+
+function throttle (fn, threshold) {
+    threshold = threshold || 100;
+    let timer = null;
+    return function throttle () {
+        if (timer == null) {
+          fn.call();
+          timer = setTimeout(function () {
+            timer = null;
+          }, threshold)
+        }
+    };
+}
 ```
 
 ### Write a class that support store DOM node and value
